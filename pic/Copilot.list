@@ -39,7 +39,6 @@ DOMAIN,api.msn.com
 DOMAIN,api.statsig.com
 DOMAIN,assets.msn.com
 DOMAIN,browser-intake-datadoghq.com
-DOMAIN,copilot.microsoft.com
 DOMAIN,gateway.bingviz.microsoft.net
 DOMAIN,gateway.bingviz.microsoftapp.net
 DOMAIN,in.appcenter.ms
@@ -112,5 +111,6 @@ DOMAIN-KEYWORD,msftconnecttest
 DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,msftauth
 DOMAIN-KEYWORD,azureedge
+DOMAIN-KEYWORD,copilot
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
