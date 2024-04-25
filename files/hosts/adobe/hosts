@@ -1,8 +1,30 @@
-# ---  Collected form Internet by Antslib.COM  ---
+# ===  Collected form Internet by Antslib.COM  === #
 # Updated from time to time, in case of failure, 
 # you can go to the Antslib.COM to leave feedback.
-
-#IPs
+#
+# ----------------- Access section ------------#
+#
+# Official Website & Account Access
+# To Disable, Remove the # sign
+#127.0.0.1 www.adobe.com
+#127.0.0.1 cdn-ffc.oobesaas.adobe.com
+#127.0.0.1 ffc-static-cdn.oobesaas.adobe.com
+#127.0.0.1 auth.services.adobe.com
+#127.0.0.1 api.account.adobe.com
+#127.0.0.1 cc-cdn.adobe.com
+#127.0.0.1 client.messaging.adobe.com
+#127.0.0.1 photo-api.adobe.io
+#127.0.0.1 photos.adobe.io
+#
+# Neural Network Filter Service Access
+# To Disable, Remove the # sign
+#127.0.0.1 ims-prod06.adobelogin.com
+#127.0.0.1 ims-prod07.adobelogin.com
+#127.0.0.1 ccext-static.adobecces.com
+#127.0.0.1 ss-prod-va6c2-ns.va6c2.adobess.com
+#
+# ------------------ Disable section -------------#
+#Ips Disable
 127.0.0.1 192.150.14.69
 127.0.0.1 192.150.18.101
 127.0.0.1 192.150.18.108
@@ -44,8 +66,8 @@
 127.0.0.1 54.224.241.105
 127.0.0.1 100.24.211.130
 127.0.0.1 162.247.242.20
-
-#domain names
+#
+#Domain Disable
 127.0.0.1 3dns-1.adobe.com
 127.0.0.1 3dns-2.adobe.com
 127.0.0.1 3dns-3.adobe.com
@@ -311,8 +333,8 @@
 127.0.0.1 images-tv.adobe.com
 127.0.0.1 ims-na1.adobelogin.com
 127.0.0.1 na1e-acc.services.adobe.com
-
-## Adobe Verification
+#
+#---Adobe Verification---#
 # Mac
 127.0.0.1 69tu0xswvq.adobe.io
 # Win
