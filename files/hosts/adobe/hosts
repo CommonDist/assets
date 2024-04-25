@@ -1,3 +1,7 @@
+# ---  Collected form Internet by Antslib.COM  ---
+# Updated from time to time, in case of failure, 
+# you can go to the Antslib.COM to leave feedback.
+
 #IPs
 127.0.0.1 192.150.14.69
 127.0.0.1 192.150.18.101
@@ -307,3 +311,9 @@
 127.0.0.1 images-tv.adobe.com
 127.0.0.1 ims-na1.adobelogin.com
 127.0.0.1 na1e-acc.services.adobe.com
+
+## Adobe Verification
+# Mac
+127.0.0.1 69tu0xswvq.adobe.io
+# Win
+127.0.0.1 jc95y2v12r.adobe.io
